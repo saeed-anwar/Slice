@@ -2,7 +2,8 @@
 
 This repository is for Attention Based Real Image Restoration (R<sup>2</sup>Net) introduced in the following paper
 
-[Muhammad Ibrahim,  Naveed Akhtar,  Saeed Anwar, Michael Wise and  Ajmal Mian, "[Attention Based Real Image Restoration](http://arxiv.org/abs/2004.13524)", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021
+[Muhammad Ibrahim,  Naveed Akhtar,  Saeed Anwar, Michael Wise and  Ajmal Mian, "[Slice Transformer and Self-supervised Learning for 6DoF Localization
+in 3D Point Cloud Maps]", IEEE International Conference on Robotics and Automation (ICRA), 2023
 
 ## Contents
 1. [Introduction](#introduction)
