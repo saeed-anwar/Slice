@@ -1,4 +1,6 @@
-# Attention Based Real Image Restoration
+# Slice Transformer and Self-supervised Learning for 6DoF Localization
+in 3D Point Cloud Maps
+
 This repository is for Attention Based Real Image Restoration (R<sup>2</sup>Net) introduced in the following paper
 
 [Saeed Anwar](https://saeed-anwar.github.io/),  Nick Barnes, and Lars Petersson, "[Attention Based Real Image Restoration](http://arxiv.org/abs/2004.13524)", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021
