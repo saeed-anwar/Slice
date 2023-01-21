@@ -1,6 +1,6 @@
 # Slice Transformer and Self-supervised Learning for 6DoF Localization in 3D Point Cloud Maps
 
-This repository is for Attention Based Real Image Restoration (R<sup>2</sup>Net) introduced in the following paper
+This repository is for transformer based self-supervised localization method and dataset introduced in the following paper
 
 [Muhammad Ibrahim,  Naveed Akhtar,  Saeed Anwar, Michael Wise and  Ajmal Mian, "[Slice Transformer and Self-supervised Learning for 6DoF Localization
 in 3D Point Cloud Maps]", IEEE International Conference on Robotics and Automation (ICRA), 2023
